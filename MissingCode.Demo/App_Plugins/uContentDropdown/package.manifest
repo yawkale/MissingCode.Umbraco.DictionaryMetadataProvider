@@ -1,0 +1,37 @@
+{
+    propertyEditors: [
+        {
+			alias: "NorthernGround.uContentDropdown",
+			name: "Content Dropdown List",
+			editor: {
+				view: "~/App_Plugins/uContentDropdown/uContentDropdown.html",
+				hideLabel: false,
+				valueType: "INT",
+				validation: {},
+				isReadOnly: false 
+			},
+			prevalues: {
+				fields: [
+					{
+						label: "Enter the XPath to execute",
+						description: "Nodes matching XPath will populate dropdown. Node Id is stored.",
+						key: "xpath",
+						view: "textstring",
+						validation: [
+							{
+								type: "Required" 
+							}						
+						]
+					}	
+				]
+			}
+		}
+    ]
+    ,
+    javascript: [
+        '~/App_Plugins/uContentDropdown/uContentDropdown.controller.js',
+        '~/App_Plugins/uContentDropdown/uContentDropdown.resource.js'
+    ],
+    css: [
+    ]
+}

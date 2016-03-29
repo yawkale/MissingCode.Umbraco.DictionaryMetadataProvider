@@ -1,0 +1,8 @@
+<div ng-controller="NorthernGround.uContentDropdown">
+    <select name="dropDownList"
+            class="umb-editor umb-dropdown"
+            ng-model="model.value"
+            ng-options="item.Name as item.Id for item in result">
+        <option value="">-- Select --</option>
+    </select>
+</div>
