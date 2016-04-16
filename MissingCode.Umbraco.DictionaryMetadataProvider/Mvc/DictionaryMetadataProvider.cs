@@ -1,13 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Web;
 using System.Web.Mvc;
 using umbraco;
+using Umbraco.Core;
+using Umbraco.Core.Services;
+using Umbraco.Web;
 
 namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
 {
+
     public class DictionaryMetadataProvider : DataAnnotationsModelMetadataProvider
     {
+        public UmbracoHelper UmbracoHelper
+        {
+            get
+            {
+                var umbracoHelper = new UmbracoHelper(UmbracoContext.Current);
+                return umbracoHelper;
+            }
+        }
         protected override ModelMetadata CreateMetadata(IEnumerable<Attribute> attributes, Type containerType,
             Func<object> modelAccessor, Type modelType, string propertyName)
         {
@@ -30,7 +43,7 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
                         return metadata;
                     }
                 }
-                
+
 
                 metadata.DisplayName = displayName;
                 metadata.Watermark = metadata.DisplayName;
@@ -91,13 +104,19 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
 
         protected virtual string LookupDictionaryValue(string dictKey, string defaultValue)
         {
-            if (umbraco.cms.businesslogic.Dictionary.DictionaryItem.hasKey(dictKey))
+            var value = UmbracoHelper.GetDictionaryValue(dictKey);
+
+            if (string.IsNullOrEmpty(value))
             {
-                return library.GetDictionaryItem(dictKey);
+                return value;
             }
             return defaultValue;
 
-
+            //if (umbraco.cms.businesslogic.Dictionary.DictionaryItem.hasKey(dictKey))
+            //{
+            //    return library.GetDictionaryItem(dictKey);
+            //}
+            //return defaultValue;
         }
     }
 }

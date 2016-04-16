@@ -1,0 +1,1016 @@
+﻿ 2016-04-16 11:58:41,445 [P13980/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.2 application starting on YAWKA-PC
+ 2016-04-16 11:58:41,493 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-04-16 11:58:41,508 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 14ms)
+ 2016-04-16 11:58:41,564 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-04-16 11:58:41,917 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 353ms)
+ 2016-04-16 11:58:41,931 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-04-16 11:58:41,939 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 7ms)
+ 2016-04-16 11:58:41,939 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-04-16 11:58:41,944 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 5ms)
+ 2016-04-16 11:58:41,964 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-04-16 11:58:41,973 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 8ms)
+ 2016-04-16 11:58:41,973 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-04-16 11:58:41,983 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 9ms)
+ 2016-04-16 11:58:42,036 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-04-16 11:58:42,040 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 4ms)
+ 2016-04-16 11:58:42,041 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-04-16 11:58:42,046 [P13980/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 5ms)
+ 2016-04-16 11:58:43,091 [P13980/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 1717ms)
+ 2016-04-16 11:58:44,196 [P13980/D2/T7] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:55217/umbraco (UmbracoModule request)
+ 2016-04-16 11:58:48,921 [P13980/D3/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.2 application starting on YAWKA-PC
+ 2016-04-16 11:58:48,958 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-04-16 11:58:48,969 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 10ms)
+ 2016-04-16 11:58:49,027 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-04-16 11:58:49,045 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 18ms)
+ 2016-04-16 11:58:49,067 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-04-16 11:58:49,071 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+ 2016-04-16 11:58:49,071 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-04-16 11:58:49,073 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 1ms)
+ 2016-04-16 11:58:49,084 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-04-16 11:58:49,087 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 3ms)
+ 2016-04-16 11:58:49,089 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-04-16 11:58:49,096 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 6ms)
+ 2016-04-16 11:58:49,125 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-04-16 11:58:49,126 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 0ms)
+ 2016-04-16 11:58:49,126 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-04-16 11:58:49,127 [P13980/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 0ms)
+ 2016-04-16 11:58:49,976 [P13980/D3/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 1136ms)
+ 2016-04-16 11:58:51,316 [P13980/D3/T10] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:55217/umbraco (UmbracoModule request)
+ 2016-04-16 11:58:51,910 [P13980/D3/T10] ERROR Umbraco.Core.UmbracoApplicationBase - An unhandled exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The database file cannot be found. Check the path to the database. [ Data Source = D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\App_Data\Umbraco.sdf ]
+   at System.Data.SqlServerCe.SqlCeConnection.Open(Boolean silent)
+   at System.Data.SqlServerCe.SqlCeConnection.Open()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.<>c__DisplayClass1.<ExecuteAction>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction(Action action)
+   at Umbraco.Core.Persistence.PetaPocoConnectionExtensions.OpenWithRetry(IDbConnection connection, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoConnectionExtensions.OpenWithRetry(IDbConnection connection)
+   at Umbraco.Core.Persistence.Database.OpenSharedConnection()
+   at Umbraco.Core.Persistence.Database.<Query>d__7`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Umbraco.Core.Persistence.Database.Fetch[T](String sql, Object[] args)
+   at Umbraco.Core.Persistence.SqlSyntax.SqlCeSyntaxProvider.GetDefinedIndexes(Database db)
+   at Umbraco.Core.Persistence.Migrations.Initial.DatabaseSchemaCreation.ValidateSchema()
+   at Umbraco.Core.DatabaseContext.ValidateDatabaseSchema()
+   at Umbraco.Core.ApplicationContext.get_IsUpgrading()
+   at Umbraco.Web.Install.Controllers.InstallController.Index()
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.ActionInvocation.InvokeSynchronousActionMethod()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 2016-04-16 11:59:14,538 [P13980/D2/T9] INFO  Umbraco.Core.UmbracoApplicationBase - Application shutdown. Details: BinDirChangeOrDirectoryRename
+
+_shutDownMessage=Change Notification for critical directories.
+bin dir change or directory rename
+HostingEnvironment initiated shutdown
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+HostingEnvironment caused shutdown
+
+_shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   at System.Environment.get_StackTrace()
+   at System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   at System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   at System.Web.HttpRuntime.ShutdownAppDomain(String stackTrace)
+   at System.Web.HttpRuntime.OnCriticalDirectoryChange(Object sender, FileChangeEvent e)
+   at System.Web.FileChangesMonitor.OnCriticaldirChange(Object sender, FileChangeEvent e)
+   at System.Web.DirectoryMonitor.FireNotifications()
+   at System.Web.Util.WorkItem.CallCallbackWithAssert(WorkItemCallback callback)
+   at System.Web.Util.WorkItem.OnQueueUserWorkItemCompletion(Object state)
+   at System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+ 2016-04-16 12:02:48,497 [P13980/D3/T9] ERROR Umbraco.Core.UmbracoApplicationBase - An unhandled exception occurred
+System.InvalidOperationException: No owin.Environment item was found in the context.
+   at System.Web.HttpContextBaseExtensions.GetOwinContext(HttpContextBase context)
+   at System.Web.HttpContextBaseExtensions.GetOwinContext(HttpRequestBase request)
+   at Umbraco.Web.Mvc.UmbracoController.get_OwinContext()
+   at Umbraco.Web.Editors.BackOfficeController.<RenderDefaultOrProcessExternalLoginAsync>d__2b.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Umbraco.Web.Editors.BackOfficeController.<AuthorizeUpgrade>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at System.Threading.Tasks.TaskHelpersExtensions.ThrowIfFaulted(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeAsynchronousActionMethod>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 2016-04-16 12:03:31,394 [P3428/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.2 application starting on YAWKA-PC
+ 2016-04-16 12:03:31,433 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-04-16 12:03:31,442 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 8ms)
+ 2016-04-16 12:03:31,503 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-04-16 12:03:31,873 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 370ms)
+ 2016-04-16 12:03:31,895 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-04-16 12:03:31,904 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 9ms)
+ 2016-04-16 12:03:31,906 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-04-16 12:03:31,913 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 6ms)
+ 2016-04-16 12:03:31,930 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-04-16 12:03:31,934 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 4ms)
+ 2016-04-16 12:03:31,935 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-04-16 12:03:31,942 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 7ms)
+ 2016-04-16 12:03:31,985 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-04-16 12:03:31,992 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 6ms)
+ 2016-04-16 12:03:31,993 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-04-16 12:03:31,997 [P3428/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 4ms)
+ 2016-04-16 12:03:33,158 [P3428/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 1843ms)
+ 2016-04-16 12:03:34,219 [P3428/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:55217/umbraco (UmbracoModule request)
+ 2016-04-16 12:03:35,317 [P3428/D2/T12] ERROR Umbraco.Core.UmbracoApplicationBase - An unhandled exception occurred
+System.InvalidOperationException: No owin.Environment item was found in the context.
+   at System.Web.HttpContextBaseExtensions.GetOwinContext(HttpContextBase context)
+   at System.Web.HttpContextBaseExtensions.GetOwinContext(HttpRequestBase request)
+   at Umbraco.Web.Mvc.UmbracoController.get_OwinContext()
+   at Umbraco.Web.Editors.BackOfficeController.<RenderDefaultOrProcessExternalLoginAsync>d__2b.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Umbraco.Web.Editors.BackOfficeController.<AuthorizeUpgrade>d__7.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at System.Threading.Tasks.TaskHelpersExtensions.ThrowIfFaulted(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeAsynchronousActionMethod>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 2016-04-16 12:03:59,582 [P3428/D2/T12] ERROR UmbracoExamine.DataServices.UmbracoLogService - Provider=InternalMemberIndexer, NodeId=-1
+System.Exception: Cannot index queue items, the index doesn't exist!,, IndexSet: InternalMemberIndexSet
+ 2016-04-16 12:03:59,584 [P3428/D2/T12] ERROR UmbracoExamine.DataServices.UmbracoLogService - Provider=InternalIndexer, NodeId=-1
+System.Exception: Cannot index queue items, the index doesn't exist!,, IndexSet: InternalIndexSet
+ 2016-04-16 12:03:59,584 [P3428/D2/T12] ERROR UmbracoExamine.DataServices.UmbracoLogService - Provider=ExternalIndexer, NodeId=-1
+System.Exception: Cannot index queue items, the index doesn't exist!,, IndexSet: ExternalIndexSet
+ 2016-04-16 12:05:16,110 [P4820/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.2 application starting on YAWKA-PC
+ 2016-04-16 12:05:16,193 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-04-16 12:05:16,209 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 16ms)
+ 2016-04-16 12:05:16,302 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-04-16 12:05:16,866 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 563ms)
+ 2016-04-16 12:05:16,879 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-04-16 12:05:16,884 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 4ms)
+ 2016-04-16 12:05:16,885 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-04-16 12:05:16,893 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 8ms)
+ 2016-04-16 12:05:16,917 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-04-16 12:05:16,925 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 7ms)
+ 2016-04-16 12:05:16,926 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-04-16 12:05:16,931 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 5ms)
+ 2016-04-16 12:05:16,994 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-04-16 12:05:16,999 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 5ms)
+ 2016-04-16 12:05:17,000 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-04-16 12:05:17,013 [P4820/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 12ms)
+ 2016-04-16 12:05:18,204 [P4820/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 2252ms)
+ 2016-04-16 12:05:20,232 [P4820/D2/T7] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:55217/umbraco (UmbracoModule request)
+ 2016-04-16 12:05:22,885 [P4820/D2/T11] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+ 2016-04-16 12:05:22,912 [P4820/D2/T11] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 0 (took 27ms)
+ 2016-04-16 12:06:38,870 [P4820/D2/T10] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2016-04-16 12:06:38,879 [P4820/D2/T10] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 0 (took 8ms)
+ 2016-04-16 12:06:39,053 [P4820/D2/T10] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-04-16 12:06:44,082 [P4820/D2/T10] ERROR Umbraco.Core.Persistence.UmbracoDatabase - Database exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+ 2016-04-16 12:06:44,095 [P4820/D2/T10] WARN  Umbraco.Core.Services.UserService - An error occurred attempting to save a user instance during upgrade, normally this warning can be ignored. Exception: System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Repositories.UserRepository.PersistUpdatedItem(IUser entity)
+   at Umbraco.Core.Cache.DefaultRepositoryCachePolicy`2.CreateOrUpdate(TEntity entity, Action`1 persistMethod)
+   at Umbraco.Core.Persistence.Repositories.RepositoryBase`2.PersistUpdatedItem(IEntity entity)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit(Action`1 transactionCompleting)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit()
+   at Umbraco.Core.Services.UserService.Save(IUser entity, Boolean raiseEvents)
+ 2016-04-16 12:06:44,130 [P4820/D2/T10] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin@uteam.co.il from IP address ::1
+ 2016-04-16 12:06:46,742 [P4820/D2/T10] ERROR Umbraco.Core.Persistence.UmbracoDatabase - Database exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+ 2016-04-16 12:06:46,743 [P4820/D2/T10] WARN  Umbraco.Core.Services.UserService - An error occurred attempting to save a user instance during upgrade, normally this warning can be ignored. Exception: System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Repositories.UserRepository.PersistUpdatedItem(IUser entity)
+   at Umbraco.Core.Cache.DefaultRepositoryCachePolicy`2.CreateOrUpdate(TEntity entity, Action`1 persistMethod)
+   at Umbraco.Core.Persistence.Repositories.RepositoryBase`2.PersistUpdatedItem(IEntity entity)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit(Action`1 transactionCompleting)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit()
+   at Umbraco.Core.Services.UserService.Save(IUser entity, Boolean raiseEvents)
+ 2016-04-16 12:06:46,775 [P4820/D2/T10] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin@uteam.co.il from IP address ::1
+ 2016-04-16 12:06:50,223 [P4820/D2/T11] ERROR Umbraco.Core.Persistence.UmbracoDatabase - Database exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+ 2016-04-16 12:06:50,225 [P4820/D2/T11] WARN  Umbraco.Core.Services.UserService - An error occurred attempting to save a user instance during upgrade, normally this warning can be ignored. Exception: System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Repositories.UserRepository.PersistUpdatedItem(IUser entity)
+   at Umbraco.Core.Cache.DefaultRepositoryCachePolicy`2.CreateOrUpdate(TEntity entity, Action`1 persistMethod)
+   at Umbraco.Core.Persistence.Repositories.RepositoryBase`2.PersistUpdatedItem(IEntity entity)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit(Action`1 transactionCompleting)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit()
+   at Umbraco.Core.Services.UserService.Save(IUser entity, Boolean raiseEvents)
+ 2016-04-16 12:06:50,260 [P4820/D2/T11] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin@uteam.co.il from IP address ::1
+ 2016-04-16 12:07:11,927 [P4820/D2/T11] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-04-16 12:07:14,512 [P4820/D2/T11] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-04-16 12:07:21,112 [P4820/D2/T12] ERROR Umbraco.Core.Persistence.UmbracoDatabase - Database exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+ 2016-04-16 12:07:21,113 [P4820/D2/T12] WARN  Umbraco.Core.Services.UserService - An error occurred attempting to save a user instance during upgrade, normally this warning can be ignored. Exception: System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Repositories.UserRepository.PersistUpdatedItem(IUser entity)
+   at Umbraco.Core.Cache.DefaultRepositoryCachePolicy`2.CreateOrUpdate(TEntity entity, Action`1 persistMethod)
+   at Umbraco.Core.Persistence.Repositories.RepositoryBase`2.PersistUpdatedItem(IEntity entity)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit(Action`1 transactionCompleting)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit()
+   at Umbraco.Core.Services.UserService.Save(IUser entity, Boolean raiseEvents)
+ 2016-04-16 12:07:21,145 [P4820/D2/T12] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin@uteam.co.il from IP address ::1
+ 2016-04-16 12:07:24,236 [P4820/D2/T11] ERROR Umbraco.Core.Persistence.UmbracoDatabase - Database exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+ 2016-04-16 12:07:24,238 [P4820/D2/T11] WARN  Umbraco.Core.Services.UserService - An error occurred attempting to save a user instance during upgrade, normally this warning can be ignored. Exception: System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Repositories.UserRepository.PersistUpdatedItem(IUser entity)
+   at Umbraco.Core.Cache.DefaultRepositoryCachePolicy`2.CreateOrUpdate(TEntity entity, Action`1 persistMethod)
+   at Umbraco.Core.Persistence.Repositories.RepositoryBase`2.PersistUpdatedItem(IEntity entity)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit(Action`1 transactionCompleting)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit()
+   at Umbraco.Core.Services.UserService.Save(IUser entity, Boolean raiseEvents)
+ 2016-04-16 12:07:24,277 [P4820/D2/T11] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin@uteam.co.il from IP address ::1
+ 2016-04-16 12:07:28,725 [P4820/D2/T11] ERROR Umbraco.Core.Persistence.UmbracoDatabase - Database exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+ 2016-04-16 12:07:28,726 [P4820/D2/T11] WARN  Umbraco.Core.Services.UserService - An error occurred attempting to save a user instance during upgrade, normally this warning can be ignored. Exception: System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Repositories.UserRepository.PersistUpdatedItem(IUser entity)
+   at Umbraco.Core.Cache.DefaultRepositoryCachePolicy`2.CreateOrUpdate(TEntity entity, Action`1 persistMethod)
+   at Umbraco.Core.Persistence.Repositories.RepositoryBase`2.PersistUpdatedItem(IEntity entity)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit(Action`1 transactionCompleting)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit()
+   at Umbraco.Core.Services.UserService.Save(IUser entity, Boolean raiseEvents)
+ 2016-04-16 12:07:28,755 [P4820/D2/T11] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin@uteam.co.il from IP address ::1
+ 2016-04-16 12:08:25,358 [P4820/D2/T14] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username admin@uteam.co.il from IP address ::1
+ 2016-04-16 12:08:25,358 [P4820/D2/T14] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: admin@uteam.co.il logged in from IP address ::1
+ 2016-04-16 12:08:25,424 [P4820/D2/T14] ERROR Umbraco.Core.Persistence.UmbracoDatabase - Database exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+ 2016-04-16 12:08:25,427 [P4820/D2/T14] WARN  Umbraco.Core.Services.UserService - An error occurred attempting to save a user instance during upgrade, normally this warning can be ignored. Exception: System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = securityStampToken ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 279
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Update(String tableName, String primaryKeyName, Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, Object primaryKeyValue, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Database.Update(Object poco, IEnumerable`1 columns)
+   at Umbraco.Core.Persistence.Repositories.UserRepository.PersistUpdatedItem(IUser entity)
+   at Umbraco.Core.Cache.DefaultRepositoryCachePolicy`2.CreateOrUpdate(TEntity entity, Action`1 persistMethod)
+   at Umbraco.Core.Persistence.Repositories.RepositoryBase`2.PersistUpdatedItem(IEntity entity)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit(Action`1 transactionCompleting)
+   at Umbraco.Core.Persistence.UnitOfWork.PetaPocoUnitOfWork.Commit()
+   at Umbraco.Core.Services.UserService.Save(IUser entity, Boolean raiseEvents)
+ 2016-04-16 12:08:31,980 [P4820/D2/T11] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Executing installation step: Permissions
+ 2016-04-16 12:08:31,997 [P4820/D2/T11] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Step completed (took 16ms)
+ 2016-04-16 12:08:32,080 [P4820/D2/T11] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Executing installation step: Upgrade
+ 2016-04-16 12:08:32,080 [P4820/D2/T11] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Step completed (took 0ms)
+ 2016-04-16 12:08:32,165 [P4820/D2/T14] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Executing installation step: DatabaseInstall
+ 2016-04-16 12:08:32,168 [P4820/D2/T14] INFO  Umbraco.Core.DatabaseContext - Database configuration status: Started
+ 2016-04-16 12:08:32,169 [P4820/D2/T14] INFO  Umbraco.Core.DatabaseContext - Database requires upgrade
+ 2016-04-16 12:08:32,170 [P4820/D2/T14] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Step completed (took 4ms)
+ 2016-04-16 12:08:32,203 [P4820/D2/T14] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Executing installation step: DatabaseUpgrade
+ 2016-04-16 12:08:32,207 [P4820/D2/T14] INFO  Umbraco.Web.Install.InstallSteps.DatabaseUpgradeStep - Running 'Upgrade' service
+ 2016-04-16 12:08:32,214 [P4820/D2/T14] INFO  Umbraco.Core.DatabaseContext - Database upgrade started
+ 2016-04-16 12:08:32,226 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Initializing database migrations
+ 2016-04-16 12:08:32,231 [P4820/D2/T14] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Persistence.Migrations.IMigration
+ 2016-04-16 12:08:32,246 [P4820/D2/T14] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Persistence.Migrations.IMigration, found 0 (took 14ms)
+ 2016-04-16 12:08:32,440 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AlterDataTypePreValueTable' to context
+ 2016-04-16 12:08:32,834 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddMissingForeignKeyForContentType' to context
+ 2016-04-16 12:08:32,920 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveCmsDocumentAliasColumn' to context
+ 2016-04-16 12:08:33,023 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddIndexToUmbracoNodeTable' to context
+ 2016-04-16 12:08:33,090 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddRelationTypeForDocumentOnDelete' to context
+ 2016-04-16 12:08:33,134 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'CreateCacheInstructionTable' to context
+ 2016-04-16 12:08:33,504 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'MigrateAndRemoveTemplateMasterColumn' to context
+ 2016-04-16 12:08:34,077 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'MigrateStylesheetDataToFile' to context
+ 2016-04-16 12:08:34,129 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveStylesheetDataAndTables' to context
+ 2016-04-16 12:08:34,213 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveLanguageLocaleColumn' to context
+ 2016-04-16 12:08:34,283 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'UpdateUniqueIdToHaveCorrectIndexType' to context
+ 2016-04-16 12:08:34,347 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddPublicAccessTables' to context
+ 2016-04-16 12:08:34,400 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'MovePublicAccessXmlDataToDb' to context
+ 2016-04-16 12:08:34,486 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveHelpTextColumn' to context
+ 2016-04-16 12:08:34,549 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddExternalLoginsTable' to context
+ 2016-04-16 12:08:34,645 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddUserColumns' to context
+ 2016-04-16 12:08:34,700 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddMigrationTable' to context
+ 2016-04-16 12:08:34,848 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddUniqueIdPropertyTypeColumn' to context
+ 2016-04-16 12:08:35,204 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddForeignKeysForLanguageAndDictionaryTables' to context
+ 2016-04-16 12:08:35,279 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveUmbracoLoginsTable' to context
+ 2016-04-16 12:08:35,435 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddServerRegistrationColumnsAndLock' to context
+ 2016-04-16 12:08:35,483 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'CleanUpCorruptedPublishedFlags' to context
+ 2016-04-16 12:08:35,526 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'UpdateUserLanguagesToIsoCode' to context
+ 2016-04-16 12:08:35,528 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'EnsureMigrationsTableIdentityIsCorrect' to context
+ 2016-04-16 12:08:35,618 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddDataDecimalColumn' to context
+ 2016-04-16 12:08:35,688 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddUniqueIdPropertyTypeGroupColumn' to context
+ 2016-04-16 12:08:35,742 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'EnsureContentTypeUniqueIdsAreConsistent' to context
+ 2016-04-16 12:08:35,781 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'FixListViewMediaSortOrder' to context
+ 2016-04-16 12:08:36,045 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'RemoveParentIdPropertyTypeGroupColumn' to context
+ 2016-04-16 12:08:36,094 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Added UPGRADE migration 'AddUmbracoDeployTables' to context
+ 2016-04-16 12:08:36,150 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 1: ALTER TABLE [cmsDataTypePreValues] ALTER COLUMN [value] NTEXT NULL
+
+ 2016-04-16 12:08:36,163 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 2: ALTER TABLE [cmsContent] ADD CONSTRAINT [FK_cmsContent_cmsContentType_nodeId] FOREIGN KEY ([contentType]) REFERENCES [cmsContentType] ([nodeId])
+
+ 2016-04-16 12:08:36,168 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 3: ALTER TABLE [cmsDocument] DROP COLUMN [alias]
+
+ 2016-04-16 12:08:36,177 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 4: CREATE NONCLUSTERED INDEX [IX_umbracoNodeUniqueID] ON [umbracoNode] ([uniqueID])
+
+ 2016-04-16 12:08:36,183 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 5: INSERT INTO [umbracoRelationType] ([dual],[parentObjectType],[childObjectType],[name],[alias]) VALUES (0,'c66ba18e-eaf3-4cff-8a22-41b16d66a972','c66ba18e-eaf3-4cff-8a22-41b16d66a972','Relate Parent Document On Delete','relateParentDocumentOnDelete');
+
+ 2016-04-16 12:08:36,195 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 6: CREATE TABLE [umbracoCacheInstruction] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[utcStamp] DATETIME NOT NULL,
+[jsonInstruction] NTEXT NOT NULL,
+[originated] NVARCHAR(500) NOT NULL)
+
+ 2016-04-16 12:08:36,198 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 7: ALTER TABLE [umbracoCacheInstruction] ADD CONSTRAINT [PK_umbracoCacheInstruction] PRIMARY KEY ([id])
+
+ 2016-04-16 12:08:36,199 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 8: UPDATE cmsTemplate SET master = NULL WHERE [master] IS NOT NULL AND [master] NOT IN (SELECT nodeId FROM (SELECT * FROM cmsTemplate a) b)
+
+ 2016-04-16 12:08:36,207 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-04-16 12:08:36,214 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-04-16 12:08:36,215 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-04-16 12:08:36,216 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-04-16 12:08:36,218 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE umbracoNode SET parentID=@parentId WHERE id=@nodeId
+ 2016-04-16 12:08:36,225 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-04-16 12:08:36,235 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-04-16 12:08:36,251 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-04-16 12:08:36,252 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-04-16 12:08:36,253 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.Upgrades.TargetVersionSevenThreeZero.MigrateAndRemoveTemplateMasterColumn - Executing sql statement: UPDATE [umbracoNode] SET path=@buildPath WHERE id=@nodeId
+ 2016-04-16 12:08:36,262 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 11: ALTER TABLE [cmsTemplate] DROP CONSTRAINT [FK_cmsTemplate_cmsTemplate]
+
+ 2016-04-16 12:08:36,263 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 12: ALTER TABLE [cmsTemplate] DROP COLUMN [master]
+
+ 2016-04-16 12:08:36,266 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 13: DELETE FROM [cmsStylesheetProperty] WHERE 1 = 1
+
+ 2016-04-16 12:08:36,267 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 14: DELETE FROM [umbracoNode] WHERE [nodeObjectType] = '5555da4f-a123-42b2-4488-dcdfb25e4111'
+
+ 2016-04-16 12:08:36,269 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 15: DROP TABLE [cmsStylesheetProperty]
+
+ 2016-04-16 12:08:36,299 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 16: DELETE FROM [cmsStylesheet] WHERE 1 = 1
+
+ 2016-04-16 12:08:36,301 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 17: DELETE FROM [umbracoNode] WHERE [nodeObjectType] = '9f68da4f-a3a8-44c2-8226-dcbd125e4840'
+
+ 2016-04-16 12:08:36,322 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 18: DROP TABLE [cmsStylesheet]
+
+ 2016-04-16 12:08:36,325 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 19: ALTER TABLE [cmsContentVersion] DROP COLUMN [LanguageLocale]
+
+ 2016-04-16 12:08:36,328 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 20: CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoNode_uniqueID] ON [umbracoNode] ([uniqueID])
+
+ 2016-04-16 12:08:36,333 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 21: CREATE TABLE [umbracoAccess] ([id] UniqueIdentifier NOT NULL,
+[nodeId] INTEGER NOT NULL,
+[loginNodeId] INTEGER NOT NULL,
+[noAccessNodeId] INTEGER NOT NULL,
+[createDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoAccess_createDate] DEFAULT (GETDATE()),
+[updateDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoAccess_updateDate] DEFAULT (GETDATE()))
+
+ 2016-04-16 12:08:36,335 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 22: ALTER TABLE [umbracoAccess] ADD CONSTRAINT [PK_umbracoAccess] PRIMARY KEY ([id])
+
+ 2016-04-16 12:08:36,339 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 23: ALTER TABLE [umbracoAccess] ADD CONSTRAINT [FK_umbracoAccess_umbracoNode_id] FOREIGN KEY ([nodeId]) REFERENCES [umbracoNode] ([id])
+
+ 2016-04-16 12:08:36,343 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 24: ALTER TABLE [umbracoAccess] ADD CONSTRAINT [FK_umbracoAccess_umbracoNode_id1] FOREIGN KEY ([loginNodeId]) REFERENCES [umbracoNode] ([id])
+
+ 2016-04-16 12:08:36,346 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 25: ALTER TABLE [umbracoAccess] ADD CONSTRAINT [FK_umbracoAccess_umbracoNode_id2] FOREIGN KEY ([noAccessNodeId]) REFERENCES [umbracoNode] ([id])
+
+ 2016-04-16 12:08:36,348 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 26: CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoAccess_nodeId] ON [umbracoAccess] ([nodeId])
+
+ 2016-04-16 12:08:36,350 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 27: CREATE TABLE [umbracoAccessRule] ([id] UniqueIdentifier NOT NULL,
+[accessId] UniqueIdentifier NOT NULL,
+[ruleValue] NVARCHAR(255) NOT NULL,
+[ruleType] NVARCHAR(255) NOT NULL,
+[createDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoAccessRule_createDate] DEFAULT (GETDATE()),
+[updateDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoAccessRule_updateDate] DEFAULT (GETDATE()))
+
+ 2016-04-16 12:08:36,351 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 28: ALTER TABLE [umbracoAccessRule] ADD CONSTRAINT [PK_umbracoAccessRule] PRIMARY KEY ([id])
+
+ 2016-04-16 12:08:36,353 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 29: ALTER TABLE [umbracoAccessRule] ADD CONSTRAINT [FK_umbracoAccessRule_umbracoAccess_id] FOREIGN KEY ([accessId]) REFERENCES [umbracoAccess] ([id])
+
+ 2016-04-16 12:08:36,355 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 30: CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoAccessRule] ON [umbracoAccessRule] ([accessId],[ruleValue],[ruleType])
+
+ 2016-04-16 12:08:36,361 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 31: ALTER TABLE [cmsPropertyType] DROP COLUMN [helpText]
+
+ 2016-04-16 12:08:36,366 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 32: CREATE TABLE [umbracoExternalLogin] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[userId] INTEGER NOT NULL,
+[loginProvider] NVARCHAR(4000) NOT NULL,
+[providerKey] NVARCHAR(4000) NOT NULL,
+[createDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoExternalLogin_createDate] DEFAULT (GETDATE()))
+
+ 2016-04-16 12:08:36,367 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 33: ALTER TABLE [umbracoExternalLogin] ADD CONSTRAINT [PK_umbracoExternalLogin] PRIMARY KEY ([id])
+
+ 2016-04-16 12:08:36,369 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 34: ALTER TABLE [umbracoExternalLogin] ADD CONSTRAINT [FK_umbracoExternalLogin_umbracoUser_id] FOREIGN KEY ([userId]) REFERENCES [umbracoUser] ([id])
+
+ 2016-04-16 12:08:36,372 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 35: ALTER TABLE [umbracoUser] ADD [securityStampToken] NVARCHAR(255) NULL
+
+ 2016-04-16 12:08:36,375 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 36: ALTER TABLE [umbracoUser] ADD [failedLoginAttempts] INTEGER NULL
+
+ 2016-04-16 12:08:36,380 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 37: ALTER TABLE [umbracoUser] ADD [lastLockoutDate] DATETIME NULL
+
+ 2016-04-16 12:08:36,383 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 38: ALTER TABLE [umbracoUser] ADD [lastPasswordChangeDate] DATETIME NULL
+
+ 2016-04-16 12:08:36,385 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 39: ALTER TABLE [umbracoUser] ADD [lastLoginDate] DATETIME NULL
+
+ 2016-04-16 12:08:36,386 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 40: CREATE TABLE [umbracoMigration] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[name] NVARCHAR(255) NOT NULL,
+[version] NVARCHAR(50) NOT NULL,
+[createDate] DATETIME NOT NULL CONSTRAINT [DF_umbracoMigration_createDate] DEFAULT (GETDATE()))
+
+ 2016-04-16 12:08:36,392 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 41: ALTER TABLE [umbracoMigration] ADD CONSTRAINT [PK_umbracoMigrations] PRIMARY KEY ([id])
+
+ 2016-04-16 12:08:36,395 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 42: CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoMigration] ON [umbracoMigration] ([name],[version])
+
+ 2016-04-16 12:08:36,398 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 43: ALTER TABLE [cmsPropertyType] ADD [uniqueID] UniqueIdentifier NOT NULL CONSTRAINT [DF_cmsPropertyType_uniqueID] DEFAULT (NEWID())
+
+ 2016-04-16 12:08:36,401 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 44: CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsPropertyTypeUniqueID] ON [cmsPropertyType] ([uniqueID])
+
+ 2016-04-16 12:08:36,407 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 45: UPDATE [cmsPropertyType] SET [uniqueID] = '58969489-76b9-1d76-3e89-239461d8e936' WHERE [id] = 27
+
+ 2016-04-16 12:08:36,411 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 46: UPDATE [cmsPropertyType] SET [uniqueID] = '553cb792-b25b-2f8f-0e35-a3ab8f84ee75' WHERE [id] = 6
+
+ 2016-04-16 12:08:36,414 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 47: UPDATE [cmsPropertyType] SET [uniqueID] = '2d022ec0-f59d-85d9-04b9-b369a0f93543' WHERE [id] = 7
+
+ 2016-04-16 12:08:36,416 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 48: UPDATE [cmsPropertyType] SET [uniqueID] = 'e8145ddd-c1de-80ee-cc83-6ae95e3674b7' WHERE [id] = 8
+
+ 2016-04-16 12:08:36,417 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 49: UPDATE [cmsPropertyType] SET [uniqueID] = '735fb031-d955-0b82-d68d-b2e6c690aaa8' WHERE [id] = 9
+
+ 2016-04-16 12:08:36,419 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 50: UPDATE [cmsPropertyType] SET [uniqueID] = '1bd732af-715a-a03e-fd7b-98bd67917a6c' WHERE [id] = 10
+
+ 2016-04-16 12:08:36,420 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 51: UPDATE [cmsPropertyType] SET [uniqueID] = '784ebab6-dda1-d885-8c0e-62373c7098f0' WHERE [id] = 24
+
+ 2016-04-16 12:08:36,425 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 52: UPDATE [cmsPropertyType] SET [uniqueID] = '8d006b3a-b1b6-7496-0ebe-4b00271861dd' WHERE [id] = 25
+
+ 2016-04-16 12:08:36,428 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 53: UPDATE [cmsPropertyType] SET [uniqueID] = 'c4112ea3-2d58-43f0-0422-cc4da6146572' WHERE [id] = 26
+
+ 2016-04-16 12:08:36,431 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 54: UPDATE [cmsPropertyType] SET [uniqueID] = 'a25a5fb8-b106-41d0-87ee-318c2487de72' WHERE [id] = 28
+
+ 2016-04-16 12:08:36,432 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 55: UPDATE [cmsPropertyType] SET [uniqueID] = '55f85b5e-b3c8-a788-4807-4ea239bd9723' WHERE [id] = 29
+
+ 2016-04-16 12:08:36,434 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 56: UPDATE [cmsPropertyType] SET [uniqueID] = 'ea3d09c7-108f-3187-795a-fa2078dbcc17' WHERE [id] = 30
+
+ 2016-04-16 12:08:36,435 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 57: UPDATE [cmsPropertyType] SET [uniqueID] = '063dfcdc-a103-a5fa-8114-09760c0d4a00' WHERE [id] = 31
+
+ 2016-04-16 12:08:36,437 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 58: UPDATE [cmsPropertyType] SET [uniqueID] = '98266fcb-1c4c-3069-bc45-d9892ea3aaf0' WHERE [id] = 32
+
+ 2016-04-16 12:08:36,439 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 59: UPDATE [cmsPropertyType] SET [uniqueID] = '077bb565-48c8-c37d-0b31-feb0d07824ef' WHERE [id] = 33
+
+ 2016-04-16 12:08:36,442 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 60: UPDATE [cmsPropertyType] SET [uniqueID] = 'b9074e2d-4798-5d11-02b3-31c0594651d7' WHERE [id] = 34
+
+ 2016-04-16 12:08:36,445 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 61: UPDATE [cmsPropertyType] SET [uniqueID] = '38c5c272-4385-4317-6aba-514e37996aa6' WHERE [id] = 50
+
+ 2016-04-16 12:08:36,447 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 62: UPDATE [cmsPropertyType] SET [uniqueID] = 'c50b1dcc-321f-b7e4-4e4b-12717bbc3a2f' WHERE [id] = 51
+
+ 2016-04-16 12:08:36,448 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 63: UPDATE [cmsPropertyType] SET [uniqueID] = '69169bf2-0fa5-5e98-8faf-efff95939e9e' WHERE [id] = 52
+
+ 2016-04-16 12:08:36,449 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 64: UPDATE [cmsPropertyType] SET [uniqueID] = '53e4cd2d-e9de-df1f-9882-5b4350041855' WHERE [id] = 53
+
+ 2016-04-16 12:08:36,450 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 65: UPDATE [cmsPropertyType] SET [uniqueID] = '5aed8153-1280-525b-b22b-7bae2cf04a77' WHERE [id] = 54
+
+ 2016-04-16 12:08:36,452 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 66: UPDATE [cmsPropertyType] SET [uniqueID] = 'ef71642c-f4e8-6187-7e5c-ce233225e5b0' WHERE [id] = 55
+
+ 2016-04-16 12:08:36,453 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 67: UPDATE [cmsPropertyType] SET [uniqueID] = '05c565f1-5aa7-87e9-626a-00e310d6a1e1' WHERE [id] = 56
+
+ 2016-04-16 12:08:36,457 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 68: UPDATE [cmsPropertyType] SET [uniqueID] = '2bce53df-4952-9368-4e3e-b123093595e6' WHERE [id] = 57
+
+ 2016-04-16 12:08:36,462 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 69: UPDATE [cmsPropertyType] SET [uniqueID] = '9e7686b3-33eb-8814-21be-906c85e3d094' WHERE [id] = 58
+
+ 2016-04-16 12:08:36,464 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 70: UPDATE [cmsPropertyType] SET [uniqueID] = 'e7b58882-517f-2630-f0a0-42bc6d9f9b62' WHERE [id] = 59
+
+ 2016-04-16 12:08:36,465 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 71: UPDATE [cmsPropertyType] SET [uniqueID] = 'f8a7b079-dc8e-de2c-358b-f31db9218903' WHERE [id] = 60
+
+ 2016-04-16 12:08:36,466 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 72: UPDATE [cmsPropertyType] SET [uniqueID] = '17a83e21-414d-2aa0-01dc-c62653c78627' WHERE [id] = 61
+
+ 2016-04-16 12:08:36,467 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 73: UPDATE [cmsPropertyType] SET [uniqueID] = '1445f833-1c45-9ef8-e814-6e85e73a34d9' WHERE [id] = 62
+
+ 2016-04-16 12:08:36,469 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 74: UPDATE [cmsPropertyType] SET [uniqueID] = '865f7e57-f53d-7c2d-cc03-5afaf026c4f3' WHERE [id] = 63
+
+ 2016-04-16 12:08:36,470 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 75: UPDATE [cmsPropertyType] SET [uniqueID] = '2625b3bb-91ac-d73a-7376-4a95ba9dafa7' WHERE [id] = 64
+
+ 2016-04-16 12:08:36,477 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 76: UPDATE [cmsPropertyType] SET [uniqueID] = '66e39762-d47b-3140-d30a-79d321ffa893' WHERE [id] = 65
+
+ 2016-04-16 12:08:36,480 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 77: UPDATE [cmsPropertyType] SET [uniqueID] = '97aa2b34-181a-b28c-8042-940c4d75089b' WHERE [id] = 66
+
+ 2016-04-16 12:08:36,482 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 78: UPDATE [cmsPropertyType] SET [uniqueID] = '0ce697e4-c7bc-2199-a839-96ec3037a42d' WHERE [id] = 67
+
+ 2016-04-16 12:08:36,484 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 79: UPDATE [cmsPropertyType] SET [uniqueID] = 'f8a044b8-3832-abb0-898d-396341059cf7' WHERE [id] = 68
+
+ 2016-04-16 12:08:36,485 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 80: UPDATE [cmsPropertyType] SET [uniqueID] = '592b510a-5b86-571c-c005-87368cb18d61' WHERE [id] = 69
+
+ 2016-04-16 12:08:36,487 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 81: UPDATE [cmsPropertyType] SET [uniqueID] = '8e5fc4b3-f4a7-7a53-6396-d1edf7b9bd4e' WHERE [id] = 70
+
+ 2016-04-16 12:08:36,495 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 82: UPDATE [cmsPropertyType] SET [uniqueID] = 'b4f13aa5-8f54-93c3-6806-2ff4ce8117d6' WHERE [id] = 71
+
+ 2016-04-16 12:08:36,500 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 83: UPDATE [cmsPropertyType] SET [uniqueID] = '19bd2d10-6e37-2e1a-138a-ff9b30569076' WHERE [id] = 72
+
+ 2016-04-16 12:08:36,501 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 84: UPDATE [cmsPropertyType] SET [uniqueID] = '3a119776-87a0-f37b-7e34-6bfb45b6c007' WHERE [id] = 73
+
+ 2016-04-16 12:08:36,502 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 85: UPDATE [cmsPropertyType] SET [uniqueID] = '3b9583a2-d929-e5e8-0bb3-ada1739358f2' WHERE [id] = 74
+
+ 2016-04-16 12:08:36,504 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 86: UPDATE [cmsPropertyType] SET [uniqueID] = '352dff59-d848-8705-668c-ab2f3637cf33' WHERE [id] = 75
+
+ 2016-04-16 12:08:36,510 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 87: DELETE FROM [cmsLanguageText] WHERE [pk] = 1
+
+ 2016-04-16 12:08:36,514 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 88: DELETE FROM [cmsLanguageText] WHERE [pk] = 2
+
+ 2016-04-16 12:08:36,516 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 89: DELETE FROM [cmsLanguageText] WHERE [pk] = 4
+
+ 2016-04-16 12:08:36,517 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 90: DELETE FROM [cmsLanguageText] WHERE [pk] = 6
+
+ 2016-04-16 12:08:36,555 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 91: DELETE FROM [cmsLanguageText] WHERE [pk] = 8
+
+ 2016-04-16 12:08:36,556 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 92: DELETE FROM [cmsLanguageText] WHERE [pk] = 10
+
+ 2016-04-16 12:08:36,558 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 93: ALTER TABLE [cmsLanguageText] ADD CONSTRAINT [FK_cmsLanguageText_umbracoLanguage_id] FOREIGN KEY ([languageId]) REFERENCES [umbracoLanguage] ([id])
+
+ 2016-04-16 12:08:36,560 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 94: ALTER TABLE [cmsDictionary] ALTER COLUMN [parent] UniqueIdentifier NULL
+
+ 2016-04-16 12:08:36,563 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 95: UPDATE [cmsDictionary] SET [parent] = NULL WHERE [pk] = 1
+
+ 2016-04-16 12:08:36,565 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 96: UPDATE [cmsDictionary] SET [parent] = NULL WHERE [pk] = 4
+
+ 2016-04-16 12:08:36,566 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 97: ALTER TABLE [cmsDictionary] ADD CONSTRAINT [FK_cmsDictionary_cmsDictionary_id] FOREIGN KEY ([parent]) REFERENCES [cmsDictionary] ([id])
+
+ 2016-04-16 12:08:36,568 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 98: DROP TABLE [umbracoUserLogins]
+
+ 2016-04-16 12:08:36,571 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 99: ALTER TABLE [umbracoServer] ADD [isMaster] BIT NOT NULL CONSTRAINT [DF_umbracoServer_isMaster] DEFAULT ('0')
+
+ 2016-04-16 12:08:36,576 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 100: SET IDENTITY_INSERT [umbracoNode] ON;
+
+ 2016-04-16 12:08:36,579 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 100: INSERT INTO [umbracoNode] ([id],[trashed],[parentId],[nodeUser],[level],[path],[sortOrder],[uniqueId],[text],[nodeObjectType],[createDate]) VALUES (-331,0,-1,0,1,'-1,-331',0,'0af5e610-a310-4b6f-925f-e928d5416af7','LOCK: Servers','87a9f1ff-b1e4-4a25-babb-465a4a47ec41','20160416 12:08:35');
+
+ 2016-04-16 12:08:36,581 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 100: SET IDENTITY_INSERT [umbracoNode] OFF;
+
+ 2016-04-16 12:08:36,587 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 102: DELETE FROM [umbracoMigration] WHERE 1 = 1
+
+ 2016-04-16 12:08:36,595 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 104: ALTER TABLE [cmsPropertyData] ADD [dataDecimal] DECIMAL(20,9) NULL
+
+ 2016-04-16 12:08:36,599 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 105: ALTER TABLE [cmsPropertyTypeGroup] ADD [uniqueID] UniqueIdentifier NOT NULL CONSTRAINT [DF_cmsPropertyTypeGroup_uniqueID] DEFAULT (NEWID())
+
+ 2016-04-16 12:08:36,603 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 106: CREATE UNIQUE NONCLUSTERED INDEX [IX_cmsPropertyTypeGroupUniqueID] ON [cmsPropertyTypeGroup] ([uniqueID])
+
+ 2016-04-16 12:08:36,683 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 108: UPDATE [umbracoNode] SET [uniqueID] = 'd96f6272-7598-8bad-e91c-37fa1d18af87' WHERE [id] = 1044
+
+ 2016-04-16 12:08:36,684 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 109: UPDATE [umbracoNode] SET [uniqueID] = 'd8cf185c-392f-591a-6100-c1d9d9963817' WHERE [id] = 1031
+
+ 2016-04-16 12:08:36,685 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 110: UPDATE [umbracoNode] SET [uniqueID] = '16bc0049-e8f5-d321-6c76-3dfbb1367a2d' WHERE [id] = 1032
+
+ 2016-04-16 12:08:36,686 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 111: UPDATE [umbracoNode] SET [uniqueID] = '34599b89-f7f5-1535-66e0-c6fd0ea11880' WHERE [id] = 1033
+
+ 2016-04-16 12:08:36,690 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 112: UPDATE [umbracoNode] SET [uniqueID] = '86cf57c2-20ef-aa6f-c6e2-0d155056c5d8' WHERE [id] = 1055
+
+ 2016-04-16 12:08:36,693 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 113: UPDATE [umbracoNode] SET [uniqueID] = 'b5b43069-8ff7-acaf-a255-121fcd267ecd' WHERE [id] = 1056
+
+ 2016-04-16 12:08:36,695 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 114: UPDATE [umbracoNode] SET [uniqueID] = 'b17d59ec-ada8-dbe3-eaaa-5e3bbcc212f4' WHERE [id] = 1057
+
+ 2016-04-16 12:08:36,697 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 115: UPDATE [umbracoNode] SET [uniqueID] = 'c5bb8b54-0260-7f12-a660-c672922ffb38' WHERE [id] = 1058
+
+ 2016-04-16 12:08:36,698 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 116: UPDATE [umbracoNode] SET [uniqueID] = 'b9c6de0d-b59f-79c4-b1ba-0b3a3cbbfa10' WHERE [id] = 1059
+
+ 2016-04-16 12:08:36,698 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 117: ALTER TABLE [cmsPropertyTypeGroup] DROP CONSTRAINT [FK_cmsPropertyTypeGroup_cmsPropertyTypeGroup_id]
+
+ 2016-04-16 12:08:36,701 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 118: ALTER TABLE [cmsPropertyTypeGroup] DROP COLUMN [parentGroupId]
+
+ 2016-04-16 12:08:36,703 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 119: CREATE TABLE [umbracoDeployChecksum] ([id] INTEGER NOT NULL IDENTITY(1,1),
+[entityType] NVARCHAR(32) NOT NULL,
+[entityGuid] UniqueIdentifier NULL,
+[entityPath] NVARCHAR(256) NULL,
+[localChecksum] NVARCHAR(32) NOT NULL,
+[compositeChecksum] NVARCHAR(32) NULL)
+
+ 2016-04-16 12:08:36,706 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 120: ALTER TABLE [umbracoDeployChecksum] ADD CONSTRAINT [PK_umbracoDeployChecksum] PRIMARY KEY ([id])
+
+ 2016-04-16 12:08:36,709 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 121: CREATE TABLE [umbracoDeployDependency] ([sourceId] INTEGER NOT NULL,
+[targetId] INTEGER NOT NULL,
+[mode] INTEGER NOT NULL)
+
+ 2016-04-16 12:08:36,711 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 122: ALTER TABLE [umbracoDeployDependency] ADD CONSTRAINT [FK_umbracoDeployDependency_umbracoDeployChecksum_id1] FOREIGN KEY ([sourceId]) REFERENCES [umbracoDeployChecksum] ([id])
+
+ 2016-04-16 12:08:36,713 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 123: ALTER TABLE [umbracoDeployDependency] ADD CONSTRAINT [FK_umbracoDeployDependency_umbracoDeployChecksum_id2] FOREIGN KEY ([targetId]) REFERENCES [umbracoDeployChecksum] ([id])
+
+ 2016-04-16 12:08:36,715 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 124: ALTER TABLE [umbracoDeployDependency] ADD CONSTRAINT [PK_umbracoDeployDependency] PRIMARY KEY ([sourceId], [targetId])
+
+ 2016-04-16 12:08:36,716 [P4820/D2/T14] INFO  Umbraco.Core.Persistence.Migrations.MigrationRunner - Executing sql statement 125: CREATE UNIQUE NONCLUSTERED INDEX [IX_umbracoDeployChecksum] ON [umbracoDeployChecksum] ([entityType],[entityGuid],[entityPath])
+
+ 2016-04-16 12:08:36,952 [P4820/D2/T14] INFO  Umbraco.Web.Strategies.Migrations.OverwriteStylesheetFilesFromTempFiles - CSS file is being backed up from D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\css\ie7.css, to D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\App_Data\TEMP\CssMigration\ie7.css.bak before being migrated to new format
+ 2016-04-16 12:08:36,955 [P4820/D2/T14] INFO  Umbraco.Web.Strategies.Migrations.OverwriteStylesheetFilesFromTempFiles - CSS file is being backed up from D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\css\ie8.css, to D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\App_Data\TEMP\CssMigration\ie8.css.bak before being migrated to new format
+ 2016-04-16 12:08:36,960 [P4820/D2/T14] INFO  Umbraco.Web.Strategies.Migrations.OverwriteStylesheetFilesFromTempFiles - CSS file is being backed up from D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\css\ie9.css, to D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\App_Data\TEMP\CssMigration\ie9.css.bak before being migrated to new format
+ 2016-04-16 12:08:36,963 [P4820/D2/T14] INFO  Umbraco.Web.Strategies.Migrations.OverwriteStylesheetFilesFromTempFiles - CSS file is being backed up from D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\css\skel-noscript.css, to D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\App_Data\TEMP\CssMigration\skel-noscript.css.bak before being migrated to new format
+ 2016-04-16 12:08:36,965 [P4820/D2/T14] INFO  Umbraco.Web.Strategies.Migrations.OverwriteStylesheetFilesFromTempFiles - CSS file is being backed up from D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\css\style-1000px.css, to D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\App_Data\TEMP\CssMigration\style-1000px.css.bak before being migrated to new format
+ 2016-04-16 12:08:36,967 [P4820/D2/T14] INFO  Umbraco.Web.Strategies.Migrations.OverwriteStylesheetFilesFromTempFiles - CSS file is being backed up from D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\css\style-desktop.css, to D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\App_Data\TEMP\CssMigration\style-desktop.css.bak before being migrated to new format
+ 2016-04-16 12:08:36,968 [P4820/D2/T14] INFO  Umbraco.Web.Strategies.Migrations.OverwriteStylesheetFilesFromTempFiles - CSS file is being backed up from D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\css\style-mobile.css, to D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\App_Data\TEMP\CssMigration\style-mobile.css.bak before being migrated to new format
+ 2016-04-16 12:08:36,971 [P4820/D2/T14] INFO  Umbraco.Web.Strategies.Migrations.OverwriteStylesheetFilesFromTempFiles - CSS file is being backed up from D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\css\style.css, to D:\uteam\umbraco.dictionarymetadataprovider\MissingCode.Demo\App_Data\TEMP\CssMigration\style.css.bak before being migrated to new format
+ 2016-04-16 12:08:36,984 [P4820/D2/T14] INFO  Umbraco.Core.DatabaseContext - Database configuration status: <p>Upgrade completed!</p>
+ 2016-04-16 12:08:36,986 [P4820/D2/T14] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Step completed (took 4783ms)
+ 2016-04-16 12:08:37,011 [P4820/D2/T11] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Executing installation step: UmbracoVersion
+ 2016-04-16 12:08:37,034 [P4820/D2/T11] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ICacheRefresher
+ 2016-04-16 12:08:37,062 [P4820/D2/T11] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 0 (took 28ms)
+ 2016-04-16 12:08:37,082 [P4820/D2/T11] INFO  umbraco.content - Load Xml from file...
+ 2016-04-16 12:08:37,084 [P4820/D2/T11] WARN  umbraco.content - Failed to load Xml, file does not exist.
+ 2016-04-16 12:08:37,089 [P4820/D2/T11] INFO  umbraco.content - Loading content from database...
+ 2016-04-16 12:08:37,993 [P4820/D2/T11] INFO  umbraco.content - Loading content from database...
+ 2016-04-16 12:08:38,012 [P4820/D2/T11] INFO  Umbraco.Core.Configuration.ClientDependencyConfiguration - Updated version number from 1 to 1162234608
+ 2016-04-16 12:08:38,102 [P4820/D2/T16] ERROR UmbracoExamine.DataServices.UmbracoLogService - Provider=InternalMemberIndexer, NodeId=-1
+System.Exception: Cannot index queue items, the index doesn't exist!,, IndexSet: InternalMemberIndexSet
+ 2016-04-16 12:08:38,103 [P4820/D2/T16] ERROR UmbracoExamine.DataServices.UmbracoLogService - Provider=InternalIndexer, NodeId=-1
+System.Exception: Cannot index queue items, the index doesn't exist!,, IndexSet: InternalIndexSet
+ 2016-04-16 12:08:38,103 [P4820/D2/T16] ERROR UmbracoExamine.DataServices.UmbracoLogService - Provider=ExternalIndexer, NodeId=-1
+System.Exception: Cannot index queue items, the index doesn't exist!,, IndexSet: ExternalIndexSet
+ 2016-04-16 12:08:38,126 [P4820/D2/T17] INFO  umbraco.content - Save Xml to file...
+ 2016-04-16 12:08:38,132 [P4820/D2/T14] INFO  umbraco.content - Saved Xml to file.
+ 2016-04-16 12:08:38,705 [P4820/D2/T11] INFO  Umbraco.Web.Install.Controllers.InstallApiController - Step completed (took 1695ms)
+ 2016-04-16 12:08:40,760 [P4820/D3/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.2 application starting on YAWKA-PC
+ 2016-04-16 12:08:40,851 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-04-16 12:08:40,869 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 18ms)
+ 2016-04-16 12:08:40,923 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-04-16 12:08:41,017 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 93ms)
+ 2016-04-16 12:08:41,130 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-04-16 12:08:41,131 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+ 2016-04-16 12:08:41,132 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-04-16 12:08:41,133 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 1ms)
+ 2016-04-16 12:08:41,151 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-04-16 12:08:41,169 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 17ms)
+ 2016-04-16 12:08:41,169 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-04-16 12:08:41,185 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 15ms)
+ 2016-04-16 12:08:41,312 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-04-16 12:08:41,314 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 2ms)
+ 2016-04-16 12:08:41,315 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-04-16 12:08:41,316 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 0ms)
+ 2016-04-16 12:08:42,965 [P4820/D3/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-04-16 12:08:43,264 [P4820/D3/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-04-16 12:08:43,266 [P4820/D3/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-04-16 12:08:43,280 [P4820/D3/T1] WARN  Umbraco.Core.Sync.DatabaseServerMessenger - No last synced Id found, this generally means this is a new server/install. The server will build its caches and indexes, and then adjust its last synced Id to the latest found in the database and maintain cache updates based on that Id.
+ 2016-04-16 12:08:43,298 [P4820/D3/T1] INFO  umbraco.content - Load Xml from file...
+ 2016-04-16 12:08:43,299 [P4820/D3/T1] INFO  umbraco.content - Loaded Xml from file.
+ 2016-04-16 12:08:43,348 [P4820/D3/T1] INFO  umbraco.content - Loading content from database...
+ 2016-04-16 12:08:44,101 [P4820/D3/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2016-04-16 12:08:44,125 [P4820/D3/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2016-04-16 12:08:44,127 [P4820/D3/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2016-04-16 12:08:44,142 [P4820/D3/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 3542ms)
+ 2016-04-16 12:08:44,553 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+ 2016-04-16 12:08:44,559 [P4820/D3/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 0 (took 6ms)
+ 2016-04-16 12:08:47,949 [P4820/D3/T29] INFO  umbraco.content - Save Xml to file...
+ 2016-04-16 12:08:47,952 [P4820/D3/T14] INFO  umbraco.content - Saved Xml to file.
+ 2016-04-16 12:08:48,600 [P4820/D3/T15] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:55217/umbraco (UmbracoModule request)
+ 2016-04-16 12:08:53,625 [P4820/D3/T7] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-04-16 12:08:53,637 [P4820/D3/T7] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 11ms)
+ 2016-04-16 12:08:53,686 [P4820/D3/T25] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-04-16 12:08:53,694 [P4820/D3/T25] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 8ms)
+ 2016-04-16 12:08:53,708 [P4820/D3/T25] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-04-16 12:08:53,708 [P4820/D3/T25] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-04-16 12:08:53,712 [P4820/D3/T25] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-04-16 12:08:53,722 [P4820/D3/T25] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 10ms)
+ 2016-04-16 12:08:53,742 [P4820/D3/T25] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplication
+ 2016-04-16 12:08:53,756 [P4820/D3/T25] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplication, found 0 (took 13ms)
+ 2016-04-16 12:08:54,358 [P4820/D3/T26] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2016-04-16 12:08:54,369 [P4820/D3/T26] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 0 (took 10ms)
+ 2016-04-16 12:09:08,184 [P4820/D2/T22] INFO  Umbraco.Core.UmbracoApplicationBase - Application shutdown. Details: ConfigurationChange
+
+_shutDownMessage=CONFIG change
+HostingEnvironment initiated shutdown
+CONFIG change
+CONFIG change
+HostingEnvironment caused shutdown
+
+_shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   at System.Environment.get_StackTrace()
+   at System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   at System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   at System.Web.HttpRuntime.ShutdownAppDomain(String stackTrace)
+   at System.Web.Configuration.HttpConfigurationSystem.OnConfigurationChanged(Object sender, InternalConfigEventArgs e)
+   at System.Configuration.Internal.InternalConfigRoot.OnConfigChanged(InternalConfigEventArgs e)
+   at System.Configuration.BaseConfigurationRecord.OnStreamChanged(String streamname)
+   at System.Web.Configuration.WebConfigurationHostFileChange.OnFileChanged(Object sender, FileChangeEvent e)
+   at System.Web.DirectoryMonitor.FireNotifications()
+   at System.Web.Util.WorkItem.CallCallbackWithAssert(WorkItemCallback callback)
+   at System.Web.Util.WorkItem.OnQueueUserWorkItemCompletion(Object state)
+   at System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+ 2016-04-16 12:09:35,149 [P4820/D3/T6] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ICacheRefresher
+ 2016-04-16 12:09:35,151 [P4820/D3/T6] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 0 (took 1ms)
+ 2016-04-16 12:09:35,165 [P4820/D3/T6] INFO  umbraco.content - Loading content from database...
+ 2016-04-16 12:09:39,184 [P4820/D3/T6] INFO  umbraco.content - Save Xml to file...
+ 2016-04-16 12:09:39,194 [P4820/D3/T14] INFO  umbraco.content - Saved Xml to file.
+ 2016-04-16 12:09:49,062 [P4820/D3/T19] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2016-04-15 12:09:49
+ 2016-04-16 12:12:15,117 [P11064/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.2 application starting on YAWKA-PC
+ 2016-04-16 12:12:15,147 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-04-16 12:12:15,159 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 11ms)
+ 2016-04-16 12:12:15,218 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-04-16 12:12:15,583 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 363ms)
+ 2016-04-16 12:12:15,605 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-04-16 12:12:15,613 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 8ms)
+ 2016-04-16 12:12:15,614 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-04-16 12:12:15,618 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 4ms)
+ 2016-04-16 12:12:15,636 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-04-16 12:12:15,642 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 6ms)
+ 2016-04-16 12:12:15,643 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-04-16 12:12:15,650 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 6ms)
+ 2016-04-16 12:12:15,702 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-04-16 12:12:15,708 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 5ms)
+ 2016-04-16 12:12:15,709 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-04-16 12:12:15,713 [P11064/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 3ms)
+ 2016-04-16 12:12:16,985 [P11064/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-04-16 12:12:17,401 [P11064/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-04-16 12:12:17,432 [P11064/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-04-16 12:12:17,505 [P11064/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2016-04-16 12:12:17,519 [P11064/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2016-04-16 12:12:17,627 [P11064/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2016-04-16 12:12:17,643 [P11064/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 2607ms)
+ 2016-04-16 12:12:19,451 [P11064/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:55217/umbraco (UmbracoModule request)
+ 2016-04-16 12:12:19,950 [P11064/D2/T8] INFO  umbraco.content - Load Xml from file...
+ 2016-04-16 12:12:19,953 [P11064/D2/T8] INFO  umbraco.content - Loaded Xml from file.
+ 2016-04-16 12:12:21,213 [P11064/D2/T8] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+ 2016-04-16 12:12:21,235 [P11064/D2/T8] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 0 (took 21ms)
+ 2016-04-16 12:13:20,031 [P11064/D2/T15] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2016-04-15 12:13:19
+ 2016-04-16 12:13:20,112 [P11064/D2/T12] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2016-04-16 12:13:20,120 [P11064/D2/T12] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 0 (took 8ms)
+ 2016-04-16 12:13:22,380 [P11064/D2/T18] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Terminating
+ 2016-04-16 12:13:22,380 [P11064/D2/T18] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Waiting for tasks to complete
+ 2016-04-16 12:13:22,381 [P11064/D2/T18] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Terminating
+ 2016-04-16 12:13:22,381 [P11064/D2/T18] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Waiting for tasks to complete
+ 2016-04-16 12:13:22,382 [P11064/D2/T8] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Tasks completed, terminated
+ 2016-04-16 12:13:22,382 [P11064/D2/T12] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Tasks completed, terminated
+ 2016-04-16 12:13:22,385 [P11064/D2/T18] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Terminating
+ 2016-04-16 12:13:22,385 [P11064/D2/T18] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Waiting for tasks to complete
+ 2016-04-16 12:13:22,385 [P11064/D2/T18] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Terminating
+ 2016-04-16 12:13:22,385 [P11064/D2/T18] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Waiting for tasks to complete
+ 2016-04-16 12:13:22,385 [P11064/D2/T5] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Tasks completed, terminated
+ 2016-04-16 12:13:22,386 [P11064/D2/T5] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Tasks completed, terminated
+ 2016-04-16 12:13:22,483 [P11064/D2/T18] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Terminating
+ 2016-04-16 12:13:22,483 [P11064/D2/T18] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Waiting for tasks to complete
+ 2016-04-16 12:13:22,483 [P11064/D2/T12] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Tasks completed, terminated
