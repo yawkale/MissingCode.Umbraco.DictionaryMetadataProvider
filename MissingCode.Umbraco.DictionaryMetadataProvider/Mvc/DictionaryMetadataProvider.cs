@@ -135,7 +135,7 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
             if (GlobalDictionary.ContainsKey(dictKey))
             {
                 var value = UmbracoHelper.GetDictionaryValue(dictKey);
-                if (string.IsNullOrEmpty(value))
+                if (!string.IsNullOrEmpty(value))
                 {
                     return value;
                 }
