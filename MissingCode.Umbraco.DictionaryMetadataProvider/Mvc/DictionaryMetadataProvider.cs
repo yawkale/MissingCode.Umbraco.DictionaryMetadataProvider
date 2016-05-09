@@ -1,15 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using ClientDependency.Core;
 using umbraco;
 using Umbraco.Core;
+using Umbraco.Core.Models;
+using Umbraco.Core.Persistence;
 using Umbraco.Core.Services;
 using Umbraco.Web;
 
 namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
 {
+    [TableName("cmsDictionary")]
+    public class UmbracoDictionaryItem
+    {
+        [Column("key")]
+        public string Key { get; set; }
+    }
 
     public class DictionaryMetadataProvider : DataAnnotationsModelMetadataProvider
     {
@@ -28,6 +38,8 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
 
             if (containerType != null && propertyName != null)
             {
+
+                
                 string key = string.Format("{0}.{1}", containerType.Name.Replace("Model", ""), propertyName);
                 string altKey = string.Format("{0}", propertyName);
                 //get model specific data
@@ -101,22 +113,51 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
             return metadata;
         }
 
+        private static Dictionary<string, string> _dic;
+        private Dictionary<string, string> GlobalDictionary
+        {
+            get
+            {
+                if (_dic == null)
+                {
+                    var db = ApplicationContext.Current.DatabaseContext.Database;
 
+                    var items = db.Fetch<UmbracoDictionaryItem>("select * from cmsDictionary");
+                    _dic = items.ToDictionary(x => x.Key, x => x.Key);
+                }
+
+                return _dic;
+
+            }
+        }
         protected virtual string LookupDictionaryValue(string dictKey, string defaultValue)
         {
-            var value = UmbracoHelper.GetDictionaryValue(dictKey);
-
-            if (string.IsNullOrEmpty(value))
+            if (GlobalDictionary.ContainsKey(dictKey))
             {
-                return value;
+                var value = UmbracoHelper.GetDictionaryValue(dictKey);
+                if (string.IsNullOrEmpty(value))
+                {
+                    return value;
+                }
+                return defaultValue;
             }
-            return defaultValue;
-
+            else
+            {
+                return defaultValue;
+            }
             //if (umbraco.cms.businesslogic.Dictionary.DictionaryItem.hasKey(dictKey))
             //{
             //    return library.GetDictionaryItem(dictKey);
             //}
             //return defaultValue;
+        }
+
+        public void UpdateCache(IDictionaryItem item)
+        {
+            if (!GlobalDictionary.ContainsKey(item.ItemKey))
+            {
+                GlobalDictionary.Add(item.ItemKey, item.ItemKey);
+            }
         }
     }
 }
