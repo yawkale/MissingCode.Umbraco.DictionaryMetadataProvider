@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>MissingCode.Umbraco.DictionaryMetadataProvider</id>
+        <version>1.0.4</version>
+        <authors>yawkale</authors>
+        <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Metadata provider using Umbarco dictionary</description>
+    </metadata>
+    <files>
+        <file src="MissingCode.Umbraco.DictionaryMetadataProvider\bin\Release\MissingCode.Umbraco.DictionaryMetadataProvider.dll" target="lib\MissingCode.Umbraco.DictionaryMetadataProvider.dll" />
+        <file src="tools\_._" target="tools\_._" />
+    </files>
+</package>

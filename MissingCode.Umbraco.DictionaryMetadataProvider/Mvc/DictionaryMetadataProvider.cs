@@ -40,7 +40,7 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
             {
 
                 
-                string key = string.Format("{0}.{1}", containerType.Name.Replace("Model", ""), propertyName);
+                string key = string.Format("{0}.{1}", containerType.Name.Replace("ViewModel", "").Replace("Model", ""), propertyName);
                 string altKey = string.Format("{0}", propertyName);
                 //get model specific data
                 var displayName = LookupDictionaryValue(key, metadata.DisplayName);
