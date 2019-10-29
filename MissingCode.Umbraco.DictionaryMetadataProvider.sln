@@ -1,13 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".build", ".build", "{65039BCE-2081-4E60-82B7-4CFB0688B458}"
-	ProjectSection(SolutionItems) = preProject
-		Build.proj = Build.proj
-		.build\MSBuild.Community.Tasks.dll = .build\MSBuild.Community.Tasks.dll
-		.build\MSBuild.Community.Tasks.targets = .build\MSBuild.Community.Tasks.targets
-	EndProjectSection
-EndProject
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingCode.Demo", "MissingCode.Demo\MissingCode.Demo.csproj", "{09532599-7688-4CD3-9895-082D56773084}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingCode.Umbraco.DictionaryMetadataProvider", "MissingCode.Umbraco.DictionaryMetadataProvider\MissingCode.Umbraco.DictionaryMetadataProvider.csproj", "{502895E7-4E17-4A17-90A8-005F507AEB3B}"
@@ -29,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD91D45E-8204-430F-AF41-9AB6823FC368}
 	EndGlobalSection
 EndGlobal
