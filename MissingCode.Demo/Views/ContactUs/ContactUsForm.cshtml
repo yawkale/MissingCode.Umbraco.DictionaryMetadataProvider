@@ -1,0 +1,37 @@
+﻿@using ClientDependency.Core.Mvc
+@model  MissingCode.Demo.Models.ContactUsModel
+@{
+    Html.RequiresJs("~/scripts/jquery.unobtrusive-ajax.min.js",101);
+    Html.RequiresJs("~/scripts/jquery.validate.min.js",101);
+    Html.RequiresJs("~/scripts/jquery.validate.unobtrusive.min.js",102);
+    Html.EnableClientValidation(true);
+    Html.EnableUnobtrusiveJavaScript(true);
+}
+
+<div class="text-left">
+    @using (Ajax.BeginForm("HandleForm", "ContactUs", new AjaxOptions { HttpMethod = "POST", UpdateTargetId = "form",InsertionMode=InsertionMode.ReplaceWith }))
+    {
+        <div class="form-group">
+            @Html.LabelFor(m => m.Name, new { @class = "sr-only" })
+            @Html.TextBoxFor(m => m.Name, new { @class = "form-control", placeholder = "NAME*" })
+            @Html.ValidationMessageFor(m => m.Name)
+
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Email, new { @class = "sr-only" })
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "EMAIL*", type = "email" })
+            @Html.ValidationMessageFor(m => m.Email)
+
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Phone, new { @class = "sr-only" })
+            @Html.TextBoxFor(m => m.Phone, new { @class = "form-control", placeholder = "PHONE", type = "tel" })
+            @Html.ValidationMessageFor(m => m.Phone)
+
+        </div>
+
+        <div class="form-group text-center">
+            <input type="submit" class="btn medium-font btn-primary btn-submit text-uppercase" value="Sign up">
+        </div>
+    }
+</div>

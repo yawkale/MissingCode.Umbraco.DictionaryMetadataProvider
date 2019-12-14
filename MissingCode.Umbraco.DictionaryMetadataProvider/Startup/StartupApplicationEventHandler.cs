@@ -1,32 +1,37 @@
-﻿using System;
-using System.Web.Mvc;
-
+﻿using System.Web.Mvc;
 using Umbraco.Core;
+using Umbraco.Core.Composing;
 using Umbraco.Core.Services;
+using Umbraco.Core.Services.Implement;
 
 namespace MissingCode.Umbraco.DictionaryMetadataProvider.Startup
 {
-    public class StartupApplicationEventHandler : IApplicationEventHandler
+
+    public class DictionaryMetadataProviderComposer : IUserComposer
     {
-        public void OnApplicationInitialized(UmbracoApplicationBase umbracoApplication, ApplicationContext applicationContext)
+        public void Compose(Composition composition)
         {
-         
+
+            composition.Register<Mvc.DictionaryMetadataProvider>();
+            composition.Components().Append<DictionaryMetadataProviderComponent>();
         }
+    }
+    public class DictionaryMetadataProviderComponent : IComponent
+    {
 
-        public void OnApplicationStarted(UmbracoApplicationBase umbracoApplication, ApplicationContext applicationContext)
+        public void Initialize()
         {
-          
-        }
-
-        public void OnApplicationStarting(UmbracoApplicationBase umbracoApplication, ApplicationContext applicationContext)
-        {
-            ModelMetadataProviders.Current = new Mvc.DictionaryMetadataProvider();
-
+            ModelMetadataProviders.Current =new Mvc.DictionaryMetadataProvider();
             LocalizationService.SavedDictionaryItem += LocalizationService_SavedDictionaryItem;
+        }
+
+        public void Terminate()
+        {
         }
 
         private void LocalizationService_SavedDictionaryItem(ILocalizationService sender, global::Umbraco.Core.Events.SaveEventArgs<global::Umbraco.Core.Models.IDictionaryItem> e)
         {
+           
             var provider = ModelMetadataProviders.Current as Mvc.DictionaryMetadataProvider;
 
             if (provider != null)
@@ -37,5 +42,9 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Startup
                 }
             }
         }
+       
+      
     }
+
+   
 }

@@ -1,15 +1,12 @@
-﻿using System;
+﻿using NPoco;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
-using System.Web;
 using System.Web.Mvc;
-using ClientDependency.Core;
-using umbraco;
 using Umbraco.Core;
+using Umbraco.Core.Composing;
 using Umbraco.Core.Models;
-using Umbraco.Core.Persistence;
-using Umbraco.Core.Services;
 using Umbraco.Web;
 
 namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
@@ -23,11 +20,16 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
 
     public class DictionaryMetadataProvider : DataAnnotationsModelMetadataProvider
     {
+        public DictionaryMetadataProvider()
+        {
+          
+        }
+
         public UmbracoHelper UmbracoHelper
         {
             get
-            {
-                var umbracoHelper = new UmbracoHelper(UmbracoContext.Current);
+            {               
+                var umbracoHelper = DependencyResolver.Current.GetService<UmbracoHelper>();
                 return umbracoHelper;
             }
         }
@@ -39,7 +41,7 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
             if (containerType != null && propertyName != null)
             {
 
-                
+
                 string key = string.Format("{0}.{1}", containerType.Name.Replace("ViewModel", "").Replace("Model", ""), propertyName);
                 string altKey = string.Format("{0}", propertyName);
                 //get model specific data
@@ -120,14 +122,13 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
             {
                 if (_dic == null)
                 {
-                    var db = ApplicationContext.Current.DatabaseContext.Database;
-
-                    var items = db.Fetch<UmbracoDictionaryItem>("select * from cmsDictionary");
-                    _dic = items.ToDictionary(x => x.Key, x => x.Key);
+                    using (var scope = Current.ScopeProvider.CreateScope())
+                    {
+                        var items = scope.Database.Fetch<UmbracoDictionaryItem>("select * from cmsDictionary");
+                        _dic = items.ToDictionary(x => x.Key, x => x.Key);
+                    }
                 }
-
                 return _dic;
-
             }
         }
         protected virtual string LookupDictionaryValue(string dictKey, string defaultValue)
@@ -145,11 +146,6 @@ namespace MissingCode.Umbraco.DictionaryMetadataProvider.Mvc
             {
                 return defaultValue;
             }
-            //if (umbraco.cms.businesslogic.Dictionary.DictionaryItem.hasKey(dictKey))
-            //{
-            //    return library.GetDictionaryItem(dictKey);
-            //}
-            //return defaultValue;
         }
 
         public void UpdateCache(IDictionaryItem item)
